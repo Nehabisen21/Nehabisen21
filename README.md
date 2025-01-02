@@ -10,9 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **AWS and Azure Cloud**
-
-- 💬 Ask me about **DevOps, AWS cloud required for DevOps**
+- 🔭 I’m currently working on **AWS and DevOps**
 
 - 📫 How to reach me **bisen.neh@gmail.com**
 
